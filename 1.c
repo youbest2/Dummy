@@ -6,6 +6,6 @@ int main()
 
   printf("Welcome to GitHub");
   printf("By RAJEEV RANJAN");
-  printf("Shared with NP");
+  printf("Nomula is a Star");
 
 }
